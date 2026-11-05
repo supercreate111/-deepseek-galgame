@@ -1,0 +1,2 @@
+调用deepseek api所制作的galgame
+记忆存储本地
